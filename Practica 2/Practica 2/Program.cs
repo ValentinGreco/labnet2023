@@ -36,7 +36,7 @@ namespace Practica_2
             }finally 
             { Console.WriteLine("\nRecorrio el Finally"); }
 
-            //Console.WriteLine("\nEl número que devuelve es: " + _calculadora.DividirporCero(number,0));
+           
 
 
             //Punto 2
